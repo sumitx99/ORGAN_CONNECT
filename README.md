@@ -1,4 +1,4 @@
-# HealthCare Management System
+# HealthCare Management System🏥
 
 A modern healthcare management system that facilitates online doctor consultations, lab test bookings, organ donation, and medical record management.
 
